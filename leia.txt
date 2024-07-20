@@ -1,0 +1,4 @@
+pip install --upgrade numpy pandas
+pip install PyYAML
+pip install pandasai
+pip freeze > requirements.txt
